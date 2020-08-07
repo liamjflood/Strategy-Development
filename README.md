@@ -18,7 +18,7 @@ These feed in the strengths and weaknesses.
 
 ### Stakeholder
 
-### Value Configuration
+### [Value Configuration](https://github.com/liamjflood/Value-Configuration)
 
 ### [VRIO](https://github.com/liamjflood/VRIO)
 
