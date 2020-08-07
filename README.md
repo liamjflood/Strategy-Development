@@ -2,11 +2,11 @@
 
 Strategy is all about finding a sustainable competitve advantage. 
 
-This can be done by using s SWOT matrix. What is unqiue about the approach presented here is that it draws on rigorous frameworks to populate this matrix. It goes further to show how to deal with ambiguity in the SWOT matrix and then shows how to create a feedback loop to the internal analysis to actually execute on stratey. 
+This can be done by using a SWOT matrix. What is unqiue about the approach presented here is that it draws on rigorous frameworks to populate this matrix. It goes further to show how to deal with ambiguity in the SWOT matrix and then shows how to create a feedback loop to the internal analysis to actually execute on stratey. 
 
 ## SWOT
 ### Strengths/Weaknesses
-Factors that come from internal analysis. These are factors that cna be changed. 
+Factors that come from internal analysis. These are factors that can be manipulated and changed. 
 
 ### Opportunities/Threats
 Factors that come from external analysis. These are factors that can't really be influenced, except perhaps by lobbying. 
