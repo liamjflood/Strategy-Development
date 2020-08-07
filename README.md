@@ -6,6 +6,8 @@ This can be done by using a SWOT matrix. What is unqiue about the approach prese
 
 The below is a summary with links to more detailed sections describing each of the frameworks. 
 
+![Strategy Development](https://github.com/liamjflood/Strategy-Development/blob/master/Strategy%20Framework)
+
 ## SWOT
 ### Strengths/Weaknesses
 Factors that come from internal analysis. These are factors that can be manipulated and changed. 
