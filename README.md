@@ -20,8 +20,7 @@ These feed in the strengths and weaknesses.
 
 ### Value Configuration
 
-### VRIO
-[VRIO](https://github.com/liamjflood/VRIO)
+### [VRIO](https://github.com/liamjflood/VRIO)
 
 
 ## External Analysis
